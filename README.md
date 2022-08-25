@@ -4,8 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+ In the first screen you can register or login and there is error handling container above 
+ 
+ second screen shows the info of the current user and below you can add user and see all users 
+ 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
